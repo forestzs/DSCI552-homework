@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/hw*/
+/hw*/*
+!/hw*/*.ipynb
+!/hw*/requirements.txt
+!/hw*/data/
